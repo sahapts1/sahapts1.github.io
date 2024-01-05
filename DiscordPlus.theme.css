@@ -8,7 +8,7 @@
  * @donate https://ko-fi.com/plusinsta
  * @website https://plusinsta.github.io/discord-plus
  * @source https://github.com/PlusInsta/discord-plus
- * @updateUrl https://plusinsta.github.io/discord-plus/DiscordPlus.theme.css
+ * @updateUrl https://sahapts1.github.io/DiscordPlus.theme.css
  * @invite 2Jwh2nS
 */
 @import url("https://sahapts1.github.io/DiscordPlus.theme.css");
@@ -84,8 +84,4 @@ Set avatar/server radius to 50% to make them circular.
 
 --dplus-icon-server-sidebar: 48px;
 --dplus-icon-server-list: 32px;
-
-/* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
---dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
